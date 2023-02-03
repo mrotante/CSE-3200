@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Q Start</string>
+    <string name="greeting">Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+    <string name="q1">There are eight seas</string>
+    <string name="q2">There are seven continents</string>
+    <string name="q3">2+3 = 6</string>
+    <string name="q4">(equal? (cube 3) 27)</string>
+    <string name="title_activity_splash_page">SplashPage</string>
+    <string name="splash_page_button">Go to App</string>
+    <string name="splash_page_content">Splash Page</string>
+
+</resources>
