@@ -7,7 +7,6 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
-import androidx.core.text.set
 import com.example.k2023_01_19b.score_q_track_models.AllQuestions
 
 class MainActivity : AppCompatActivity() {
@@ -31,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         falseButton = findViewById(R.id.false_button)
         nextButton = findViewById(R.id.next_button)
         questionArea = findViewById(R.id.question_area)
+        questionArea.setText("")
 
         trueButton.setOnClickListener (
             View.OnClickListener {
