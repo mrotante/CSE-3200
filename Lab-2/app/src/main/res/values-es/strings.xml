@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Laboratorio-2</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="splashText">¡Bienvenido a la aplicación de prueba!</string>
+    <string name="launchButton">Comenzar prueba</string>
+
+
+    <!--Question Text-->
+    <string name="q1">Cierto o Falso</string>
+    <string name="q2">Cierto y Falso</string>
+    <string name="q3">Cierto o Cierto</string>
+    <string name="q4">Cierto y Cierto</string>
+    <string name="q5">no Cierto</string>
+    <string name="q6">no Falso</string>
+    <string name="q7">Falso o no Cierto y Cierto</string>
+    <string name="q8">Falso y no Cierto o Cierto</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="done">Hecho</string>
+    <string name="next">Próximo</string>
+    <string name="True">Cierto</string>
+    <string name="False">Falso</string>
+    <string name="Restart">Reiniciar cuestionario</string>
+    <string name="Score">Puntaje</string>
+    <string name="outOfQuestions">Pulsa hecho para ver tu puntuación</string>
+
+    <string name="hello_first_fragment">hola primer fragmento</string>
+    <string name="hello_second_fragment">hola segundo fragmento. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lab-2</string>
+    <string name="action_settings">Settings</string>
+    <string name="splashText">Welcome to Quiz App!</string>
+    <string name="launchButton">Begin Quiz</string>
+
+
+    <!--Question Text-->
+    <string name="q1">True or False</string>
+    <string name="q2">True and False</string>
+    <string name="q3">True or True</string>
+    <string name="q4">True and True</string>
+    <string name="q5">not True</string>
+    <string name="q6">not False</string>
+    <string name="q7">False or not True and True</string>
+    <string name="q8">False and not True or True</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="Restart">Restart Quiz</string>
+    <string name="Score">Score</string>
+    <string name="outOfQuestions">Press done to see your score.</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
