@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab-3</string>
+
+    <!--Recipe Strings-->
+    <string name="r1">Lemon Chicken</string>
+    <string name="r2">Caprese Stuffed Shells</string>
+    <string name="r3">Penne alla vodka</string>
+    <string name="r4">Seared Tuna</string>
+    <string name="r5">Pupusas</string>
+    <string name="r6">Crispy Shrimp and Chive Dumplings</string>
+    <string name="r7">Grilled Radicchio Salad</string>
+    <string name="r8">Mixed Green Salad</string>
+    <string name="r9">Pepperoni Pizza</string>
+    <string name="r10">Sausage and Peppers</string>
+</resources>
