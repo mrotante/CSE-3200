@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="title_home">Timer 1</string>
+    <string name="title_dashboard">Timer 2</string>
+    <string name="title_notifications">Timer 3</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Check Time</string>
+</resources>
