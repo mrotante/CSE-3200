@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab-4</string>
+    <string name="r1">Classic Radio</string>
+    <string name="r2">Christmas Radio</string>
+    <string name="r3">Jazz Radio</string>
+    <string name="r4">70s Radio</string>
+    <string name="r5">Indie Rock Radio</string>
+    <string name="r6">80s Radio</string>
+    <string name="r7">90s Radio</string>
+    <string name="r8">Chill Radio</string>
+    <string name="r9">Dance Radio</string>
+    <string name="r10">Smooth Jazz Radio</string>
+</resources>
