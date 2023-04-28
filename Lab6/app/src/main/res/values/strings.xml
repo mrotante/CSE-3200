@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab6</string>
+
+    <string-array name="radios">
+        <item>Classic Radio</item>
+        <item>Smooth Jazz Radio</item>
+        <item>70s Radio</item>
+        <item>90s Radio</item>
+    </string-array>
+
+    <string-array name="videos">
+        <item>Park</item>
+        <item>Busses</item>
+        <item>Traffic</item>
+    </string-array>
+</resources>

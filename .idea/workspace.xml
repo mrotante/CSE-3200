@@ -4,47 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e8b6de3-08b7-415a-8614-44156cdff901" name="Changes" comment="midterm">
-      <change afterPath="$PROJECT_DIR$/Lab-4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/androidTest/java/com/example/lab_4/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/java/com/example/lab_4/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/drawable/pngtree_retro_red_radio_background_image_507580.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/app/src/test/java/com/example/lab_4/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab-4/settings.gradle" afterDir="false" />
+    <list default="true" id="1e8b6de3-08b7-415a-8614-44156cdff901" name="Changes" comment="lab 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680193963054</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lab 4">
+      <created>1680480115663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680480115663</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +160,7 @@
     <MESSAGE value="lab 2" />
     <MESSAGE value="lab 3" />
     <MESSAGE value="midterm" />
-    <option name="LAST_COMMIT_MESSAGE" value="midterm" />
+    <MESSAGE value="lab 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 4" />
   </component>
 </project>
